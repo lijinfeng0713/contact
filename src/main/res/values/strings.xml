@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">contact</string>
+    <string name="btnCard">手机</string>
+    <string name="btnSim">Sim</string>
+</resources>
